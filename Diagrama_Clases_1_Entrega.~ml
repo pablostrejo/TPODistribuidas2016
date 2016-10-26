@@ -4416,37 +4416,31 @@
 <XPD:ATTR name="#Attributes" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="H1ZzicFxp0uT0k2KOf9XzgAA">
 <XPD:ATTR name="Name" type="string">idTrayecto</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="b6blmEeJLEu66/m0ONurpQAA">
 <XPD:ATTR name="Name" type="string">idOrigen</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="Vc9rYrHJFUu4GErgjXM4JgAA">
 <XPD:ATTR name="Name" type="string">idDestino</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="Qc0fur79bki1wBOB58nC1QAA">
 <XPD:ATTR name="Name" type="string">tiempo</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="cWFCrF8QvE+w4xGH8cWXwgAA">
 <XPD:ATTR name="Name" type="string">km</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="7sT/qEOdG0O8DITNCvwprgAA">
 <XPD:ATTR name="Name" type="string">precio</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">htiG7MSz+UWe7m/JOPHp+gAA</XPD:REF>
 </XPD:OBJ>
@@ -4562,37 +4556,31 @@
 <XPD:ATTR name="#Attributes" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="xSA3WRnsgEq3R1Q3pU03NAAA">
 <XPD:ATTR name="Name" type="string">nroViaje</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="BifUGYmROkGxP2gLXie/zgAA">
 <XPD:ATTR name="Name" type="string">envios</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">collection&lt;Envio&gt;</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="pVA01eLgwkKBy9ScC/ucMgAA">
 <XPD:ATTR name="Name" type="string">fechaLlegada</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">date</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="UDs99JrijEyIWpmvd0KcOAAA">
 <XPD:ATTR name="Name" type="string">idOrigen</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="2if06VwvgUWtyo+TsFAawQAA">
 <XPD:ATTR name="Name" type="string">idDestino</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="/1ql8ip420+n7YCnmnHG7wAA">
 <XPD:ATTR name="Name" type="string">termino</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">boolean</XPD:ATTR>
 <XPD:REF name="Owner">6NQ9pB+vLUqJ6667skiG9wAA</XPD:REF>
 </XPD:OBJ>
@@ -4762,73 +4750,61 @@
 <XPD:ATTR name="#Attributes" type="integer">12</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="X5ayhNbkpE6X8HxKqS279QAA">
 <XPD:ATTR name="Name" type="string">nroVehiculo</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="vJCgQ3sSdEWagfClJaraqwAA">
 <XPD:ATTR name="Name" type="string">tipo</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="WlkWeQnS/0u3058+GE/JTgAA">
 <XPD:ATTR name="Name" type="string">volumen</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="Hy8RYnB9JUaZ1gMkt51dagAA">
 <XPD:ATTR name="Name" type="string">peso</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="esTtcXTMBEyPVUgZJvtCBwAA">
 <XPD:ATTR name="Name" type="string">ancho</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="feLlImSu8kiNyy+ACUtP3AAA">
 <XPD:ATTR name="Name" type="string">alto</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="G+9xfvDFa0mIR8FvwHH+1AAA">
 <XPD:ATTR name="Name" type="string">profundidad</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[7]" type="UMLAttribute" guid="dgqxh28NMEiUm4nmx7sD9QAA">
 <XPD:ATTR name="Name" type="string">tara</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[8]" type="UMLAttribute" guid="ylIbcZVdmUCH9v4FydSqhwAA">
 <XPD:ATTR name="Name" type="string">kilometraje</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[9]" type="UMLAttribute" guid="4CfMgfMvokmFHFPq4karAwAA">
 <XPD:ATTR name="Name" type="string">estado</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[10]" type="UMLAttribute" guid="2NBiPHykLE24e//vBjfIqgAA">
 <XPD:ATTR name="Name" type="string">especificacion</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[11]" type="UMLAttribute" guid="f5l18zGmpE6e6P8dbX3qOAAA">
 <XPD:ATTR name="Name" type="string">fechaUltimoControl</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">date</XPD:ATTR>
 <XPD:REF name="Owner">KZ6ScVeUnESMUejcacllzAAA</XPD:REF>
 </XPD:OBJ>
@@ -5954,13 +5930,11 @@
 <XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="LukaMI0fyk6jKqqkoTzufgAA">
 <XPD:ATTR name="Name" type="string">nroRemito</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">Yv2En6QnpUSTC4dMmkfQswAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="ahXq/9zhZEiRVCD8w0GvagAA">
 <XPD:ATTR name="Name" type="string">nroPedido</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">Yv2En6QnpUSTC4dMmkfQswAA</XPD:REF>
 </XPD:OBJ>
@@ -6197,19 +6171,16 @@
 <XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="stcSHKRSXUmi99DvjczN/wAA">
 <XPD:ATTR name="Name" type="string">nroProveedor</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">v5dGXYmYpk6+XScWXKyQ4wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="sdl8lyB4aUG7sLJwcQOaZgAA">
 <XPD:ATTR name="Name" type="string">nombre</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">v5dGXYmYpk6+XScWXKyQ4wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="D+QxhNH8MkGkiK6TpriZ4AAA">
 <XPD:ATTR name="Name" type="string">CUIT</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">v5dGXYmYpk6+XScWXKyQ4wAA</XPD:REF>
 </XPD:OBJ>
@@ -6229,14 +6200,12 @@
 <XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="WecoV67rFUmxS+ezKJ+8lQAA">
 <XPD:ATTR name="Name" type="string">mercaderia</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Mercaderia</XPD:ATTR>
 <XPD:REF name="Type_">xSQApPqYl0yOFYSyBZ9rXgAA</XPD:REF>
 <XPD:REF name="Owner">bXdsEfIRtEigmHOrwVPufQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="Ti6BEeE6nU2acVFg66qdXAAA">
 <XPD:ATTR name="Name" type="string">tarifa</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">bXdsEfIRtEigmHOrwVPufQAA</XPD:REF>
 </XPD:OBJ>
@@ -6256,20 +6225,17 @@
 <XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="AvyM4/8LcEKySVuCF8MTYAAA">
 <XPD:ATTR name="Name" type="string">mercaderia</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Mercaderia</XPD:ATTR>
 <XPD:REF name="Type_">xSQApPqYl0yOFYSyBZ9rXgAA</XPD:REF>
 <XPD:REF name="Owner">U9SIvLoO/UqSzpCAdXDhfwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="/E+L6Wf7R0GBA1GYiMtmKwAA">
 <XPD:ATTR name="Name" type="string">tarifa</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">float</XPD:ATTR>
 <XPD:REF name="Owner">U9SIvLoO/UqSzpCAdXDhfwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="99ALhuhTuEKnyA9QFx9GigAA">
 <XPD:ATTR name="Name" type="string">tipoTransporte</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">U9SIvLoO/UqSzpCAdXDhfwAA</XPD:REF>
 </XPD:OBJ>
@@ -6606,7 +6572,6 @@
 <XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="WLabhL/6GEi+WfK+1HygXgAA">
 <XPD:ATTR name="Name" type="string">idPoliticaMantenimiento</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">R7TtZ3GpEE+CEieqFsIk8wAA</XPD:REF>
 </XPD:OBJ>
