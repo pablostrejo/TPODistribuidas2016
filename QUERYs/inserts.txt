@@ -1,0 +1,27 @@
+insert into Clientes values (1, 'Pablo');
+insert into Clientes values (2, 'Jonathan');
+insert into Clientes values (3, 'Eugenia');
+insert into Clientes values (4, 'Empresa A');
+insert into Clientes values (5, 'Empresa B');
+insert into Clientes values (6, 'Empresa C');
+
+insert into Particulares values (1, 31165167, 'Trejo');
+insert into Particulares values (2, 33488422,'Mastropasqua');
+insert into Particulares values (3, 34308381,'Osler');
+
+insert into Empresas values(4, 2044444444, 'PyME', 'sin politicas', 0 );
+insert into Empresas values(5, 2055555555, 'Grande', 'con politicas', 0 );
+insert into Empresas values(6, 2066666666, 'Multinacional', 'todas las politicas', 0 );
+
+insert into Direcciones values ('CalleA', 111, 0, '-', '1761');
+insert into Direcciones values ('CalleB', 222, 0, '-', '2762');
+insert into Direcciones values ('CalleC', 333, 0, '-', '3763');
+insert into Direcciones values ('CalleD', 444, 0, '-', '4764');
+insert into Direcciones values ('CalleE', 555, 0, '-', '5765');
+
+insert into Sucursales values ('Sucursal A', 1);
+insert into Sucursales values ('Sucursal B', 2);
+insert into Sucursales values ('Sucursal C', 3);
+insert into Sucursales values ('Sucursal D', 4);
+--insert into Sucursales values ('Sucursal E', 5);
+
