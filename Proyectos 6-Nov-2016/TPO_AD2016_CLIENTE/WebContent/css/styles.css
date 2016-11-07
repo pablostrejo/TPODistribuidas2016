@@ -1,0 +1,64 @@
+header {
+	height:200px;
+	background-image:url('http://cuyomotor.com.ar/wp-content/uploads/2015/11/mercedesbenz-camiones.jpg');
+	background-position:50%;
+	background-size:cover;
+}
+
+form .row {
+	margin-bottom:20px;
+}
+
+label {
+	display:block;
+}
+
+label.label-inline {
+	display:inline-block;
+}
+
+.title-field {
+	display:block;
+	margin-bottom: 5px;
+}
+
+.ctn-field {
+	line-height:34px;
+}
+
+.ctn-field label {
+	margin:0px 10px;
+}
+
+.ctn-add {
+	text-align:right;
+}
+
+.btn-add {
+	margin-bottom:10px;
+}
+
+td.buttons {
+	text-align:right;
+}
+
+.ctn-table {
+	border-top:1px solid #DDD;
+	padding-top:10px;
+	height:245px;
+	overflow:auto;
+}
+
+nav {
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:#F2F2F2;
+}
+
+footer {
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	line-height:40px;
+}
