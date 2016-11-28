@@ -1,27 +1,51 @@
-insert into Clientes values (1, 'Pablo');
-insert into Clientes values (2, 'Jonathan');
-insert into Clientes values (3, 'Eugenia');
-insert into Clientes values (4, 'Empresa A');
-insert into Clientes values (5, 'Empresa B');
-insert into Clientes values (6, 'Empresa C');
+insert into Clientes values ('Pablo');		--1
+insert into Clientes values ('Jonathan');	--2
+insert into Clientes values ('Eugenia');	--3
+insert into Clientes values ('Empresa A');	--4
+insert into Clientes values ('Empresa B');	--5
+insert into Clientes values ('Empresa C');	--6
 
-insert into Particulares values (1, 31165167, 'Trejo');
-insert into Particulares values (2, 33488422,'Mastropasqua');
-insert into Particulares values (3, 34308381,'Osler');
+insert into Particulares values (1, 31165167, 'Trejo');			--1
+insert into Particulares values (2, 33488422,'Mastropasqua');	--2
+insert into Particulares values (3, 34308381,'Osler');			--3
 
-insert into Empresas values(4, 2044444444, 'PyME', 'sin politicas', 0 );
-insert into Empresas values(5, 2055555555, 'Grande', 'con politicas', 0 );
-insert into Empresas values(6, 2066666666, 'Multinacional', 'todas las politicas', 0 );
+insert into Empresas values(4, 2044444444, 'PyME', 'sin politicas', 0 );				--4
+insert into Empresas values(5, 2055555555, 'Grande', 'con politicas', 0 );				--5
+insert into Empresas values(6, 2066666666, 'Multinacional', 'todas las politicas', 0 );	--6
 
-insert into Direcciones values ('CalleA', 111, 0, '-', '1761');
-insert into Direcciones values ('CalleB', 222, 0, '-', '2762');
-insert into Direcciones values ('CalleC', 333, 0, '-', '3763');
-insert into Direcciones values ('CalleD', 444, 0, '-', '4764');
-insert into Direcciones values ('CalleE', 555, 0, '-', '5765');
+insert into Direcciones values ('CalleA', 111, 0, '-', '1761');	--1
+insert into Direcciones values ('CalleB', 222, 0, '-', '2762');	--2
+insert into Direcciones values ('CalleC', 333, 0, '-', '3763');	--3
+insert into Direcciones values ('CalleD', 444, 0, '-', '4764');	--4
+insert into Direcciones values ('CalleE', 555, 0, '-', '5765');	--5
 
-insert into Sucursales values ('Sucursal A', 1);
-insert into Sucursales values ('Sucursal B', 2);
-insert into Sucursales values ('Sucursal C', 3);
-insert into Sucursales values ('Sucursal D', 4);
+insert into Sucursales values ('Sucursal A', 1);	--1
+insert into Sucursales values ('Sucursal B', 2);	--2
+insert into Sucursales values ('Sucursal C', 3);	--3
+insert into Sucursales values ('Sucursal D', 4);	--4
 --insert into Sucursales values ('Sucursal E', 5);
+
+INSERT INTO PlanesDeMantenimiento VALUES(15,20,150)
+INSERT INTO PlanesDeMantenimiento VALUES(40,20,110)
+INSERT INTO PlanesDeMantenimiento VALUES(40,20,40)
+INSERT INTO PlanesDeMantenimiento VALUES(40,20,900)
+
+INSERT INTO Vehiculos VALUES ('Camion Con Caja',200,1500,10,10,10,20,150,'En Deposito','','','2016-20-11 19:00:00.000',2)
+INSERT INTO Vehiculos VALUES ('Camioneta',70,3000,25,50,50,60,1000,'En Deposito','','','2014-21-11 19:00:00.000',4)
+
+INSERT INTO Rutas VALUES(75,1,2)
+INSERT INTO Rutas VALUES(75,2,3)
+INSERT INTO Rutas VALUES(100,1,4)
+INSERT INTO Rutas VALUES(100,4,3)
+INSERT INTO Rutas VALUES(100,3,1)
+INSERT INTO Rutas VALUES(100,1,3)
+
+INSERT INTO Trayectos VALUES(20,1500,50,2,1,5)
+INSERT INTO Trayectos VALUES(8,500,25,3,2,6)
+INSERT INTO Trayectos VALUES(20,1500,50,4,1,7)
+INSERT INTO Trayectos VALUES(20,1500,50,3,4,8)
+INSERT INTO Trayectos VALUES(8,500,25,2,3,9)
+INSERT INTO Trayectos VALUES(8,500,25,1,2,9)
+INSERT INTO Trayectos VALUES(9,600,25,2,1,10)
+INSERT INTO Trayectos VALUES(9,600,25,3,2,10)
 
