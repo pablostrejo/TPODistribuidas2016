@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TPO_AD2016_REPOSITORIO"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pablo/Documents/UADE/Aplicaciones Distribuidas/cosas hibernate/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TPO_AD2016_CLIENTE">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="TPO_AD2016_REPOSITORIO.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/TPO_AD2016_REPOSITORIO/TPO_AD2016_REPOSITORIO">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="java-output-path" value="/TPO_AD2016_CLIENTE/build/classes"/>
+        <property name="context-root" value="TPO_AD2016_CLIENTE"/>
+    </wb-module>
+</project-modules>
